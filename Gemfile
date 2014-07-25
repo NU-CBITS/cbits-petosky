@@ -5,10 +5,10 @@ gem 'rails', '>= 4.1.1'
 gem 'rake', '~> 10.3.1'
 
 # Use postgresql as the database for Active Record
-# gem 'pg'
+gem 'pg'
 
 # for local development use sqlite
-gem 'sqlite3'
+#gem 'sqlite3'
 
 # for uploading files
 gem "paperclip", "~> 4.1"
